@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ATuan\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ATuan\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Motion Matching Practice.-40941114.00" t="ExcludeRecursive" />
+    <e p="D:\unity\project\Motion Matching Practice" t="IncludeRecursive">
+      <e p="Assets" t="Include">
+        <e p="MotionMatching_Asset" t="Include">
+          <e p="Editor" t="Include">
+            <e p="AnimationCurvesCreator" t="Include">
+              <e p="AnimationCurvesCreator.cs" t="Include" />
+              <e p="AnimatorCurvesCreatorEditor.cs" t="Include" />
+              <e p="CurveCreationCondition.cs" t="Include" />
+            </e>
+            <e p="AnimatorCreator_Vol2" t="Include">
+              <e p="AnimatorGraphEditor.cs" t="Include" />
+              <e p="ElementOptionView.cs" t="Include" />
+              <e p="GraphSpaceNEW.cs" t="Include" />
+              <e p="LayersAndParametersSpace.cs" t="Include" />
+            </e>
+            <e p="CustomInspectors" t="Include">
+              <e p="TrajectoryMakerCustomInspector.cs" t="Include" />
+            </e>
+            <e p="DataCreators" t="Include">
+              <e p="DataCreatorEditor" t="Include">
+                <e p="AnimationSequenceOptions.cs" t="Include" />
+                <e p="AnimationsSequences.cs" t="Include" />
+                <e p="BlendTreeInfo.cs" t="Include" />
+                <e p="BlendTreesOptions.cs" t="Include" />
+                <e p="CreatorBasicOption.cs" t="Include" />
+                <e p="DataCreator.cs" t="Include" />
+                <e p="DataCreatorEditor.cs" t="Include" />
+              </e>
+              <e p="MotionMatchingDataInspector.cs" t="Include" />
+            </e>
+            <e p="DataPreparation" t="Include">
+              <e p="MotionDataCalculator.cs" t="Include" />
+            </e>
+            <e p="GUILayoutElements.cs" t="Include" />
+            <e p="GUIResources.cs" t="Include" />
+            <e p="IDCreator.cs" t="Include" />
+            <e p="MotionMatching-Editor.asmdef" t="Include" />
+            <e p="MotionMatchingDataEditor2" t="Include">
+              <e p="MotionMatchingDataEditor.cs" t="Include" />
+            </e>
+            <e p="PlayableAnimator" t="Include">
+              <e p="PreparingDataPlayableGraph.cs" t="Include" />
+            </e>
+            <e p="SectionsEditors" t="Include">
+              <e p="SectionsDependenciesEditor.cs" t="Include" />
+            </e>
+            <e p="ZoomArea_" t="Include">
+              <e p="ZoomArea.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Gameplay" t="Include">
+            <e p="Additional" t="Include">
+              <e p="MM_Gizmos.cs" t="Include" />
+              <e p="MotionMatchingEnums.cs" t="Include" />
+              <e p="Vector3Extensions.cs" t="Include" />
+            </e>
+            <e p="Components" t="Include">
+              <e p="MotionMatching.cs" t="Include" />
+              <e p="TrajectoryMaker.cs" t="Include" />
+            </e>
+            <e p="DataStructures" t="Include">
+              <e p="MotionMatchingData.cs" t="Include" />
+              <e p="MotionMatchingDataElements" t="Include">
+                <e p="BoneData.cs" t="Include" />
+                <e p="FrameData.cs" t="Include" />
+                <e p="FrameSections.cs" t="Include" />
+                <e p="MM_DataSection.cs" t="Include" />
+                <e p="MotionDataGroup.cs" t="Include" />
+                <e p="MotionMatchingContact.cs" t="Include" />
+                <e p="MotionMatchingEventMarker.cs" t="Include" />
+                <e p="PoseData.cs" t="Include" />
+                <e p="Trajectory.cs" t="Include" />
+              </e>
+              <e p="TrajectoryProfile.cs" t="Include" />
+            </e>
+            <e p="MotionMatching-GamePlay.asmdef" t="Include" />
+            <e p="MotionMatching_Jobs.cs" t="Include" />
+            <e p="MotionMatchingAnimatorController" t="Include">
+              <e p="DataComponents" t="Include">
+                <e p="Condition.cs" t="Include" />
+                <e p="MotionMatchingLayer.cs" t="Include" />
+                <e p="MotionMatchingState.cs" t="Include" />
+                <e p="StateFeatures" t="Include">
+                  <e p="StateFeatures.cs" t="Include" />
+                </e>
+                <e p="Transitions.cs" t="Include" />
+              </e>
+              <e p="LogicComponents" t="Include">
+                <e p="LogicAnimationsSequence.cs" t="Include" />
+                <e p="LogicContactState.cs" t="Include" />
+                <e p="LogicImpactState.cs" t="Include" />
+                <e p="LogicMotionMatchingLayer.cs" t="Include" />
+                <e p="LogicMotionMatchingState.cs" t="Include" />
+                <e p="LogicSingleAnimationState.cs" t="Include" />
+                <e p="LogicState.cs" t="Include" />
+                <e p="MotionMatchingStateBehavior.cs" t="Include" />
+              </e>
+              <e p="MM_AnimatorController.cs" t="Include" />
+              <e p="SectionsDependencies.cs" t="Include" />
+            </e>
+            <e p="PlayableAnimators" t="Include">
+              <e p="MotionMatchingPlayableGraph.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Motion Matching Practice.sln" t="IncludeFlat" />
+      <e p="MotionMatching-Editor.csproj" t="IncludeRecursive" />
+      <e p="MotionMatching-GamePlay.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
